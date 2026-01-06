@@ -1,0 +1,13 @@
+=> = "function" o "que.." // es igual a la keyword "function" |  “A partir de acá empieza la definición de la función”
+
+{ } = “Bloque de código que se ejecuta cuando se llama a la función”
+
+--------------------------
+
+Ejemplos: 
+
+const Pedro = () => {
+  return 5;
+};
+
+“Defino una constante llamada Pedro que es igual a una función sin parámetros, y cuando se ejecuta devuelve 5.
